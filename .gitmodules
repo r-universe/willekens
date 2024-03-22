@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "Families"]
 	path = Families
-	url = https://github.com/cran/Families
+	url = https://github.com/willekens/families
 [submodule "VirtualPop"]
 	path = VirtualPop
 	url = https://github.com/willekens/virtualpop
